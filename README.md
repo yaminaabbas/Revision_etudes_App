@@ -1,6 +1,6 @@
 
 
-### Application de Révision d'Études
+### Application de Révision des études
 
 
 **User Stories**
